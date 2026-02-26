@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Lu Xinhong 👋
 
-<!--
-**luxh1121/luxh1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer & dev lead based in China.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend**: Java (Spring Boot, Spring Cloud), Python (FastAPI, Flask)
+- **Frontend**: Vue.js, React, TypeScript
+- **DevOps**: Docker, Kubernetes, CI/CD, Linux
+- **Data**: MySQL, Redis, Elasticsearch, Kafka
+- **AI/ML**: LLM integration, AI-assisted development, Agent systems
+
+## 🚀 What I'm Working On
+
+- Exploring AI-assisted software development workflows
+- Building tools for developer productivity
+- Contributing to open source projects
+- Experimenting with AI agent architectures
+
+## 📊 Interests
+
+- Software engineering best practices
+- AI & LLM applications in development
+- Open source community
+- Stock market & quantitative analysis
+
+## 📫 How to Reach Me
+
+- GitHub: [@luxh1121](https://github.com/luxh1121)
+- Email: luxh1121@126.com
+
+---
+
+*"The best way to predict the future is to build it."*
